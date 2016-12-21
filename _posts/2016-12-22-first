@@ -1,1 +1,11 @@
-This is a test post! 
+---
+layout: post
+title: What is This?
+excerpt: "This is just my first real post, thanks for reading."
+modified: 2/29/2016, 9:00:24
+tags: [intro]
+comments: true
+category: blog
+---
+
+This is a test post!
