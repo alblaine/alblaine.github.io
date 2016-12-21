@@ -6,12 +6,12 @@ logo:
 url:		
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Alison Blaine
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I love data viz and work at NCSU Libraries."
+  email: ablaine@ncsu.edu
   disqus-shortname:
-  twitter: #username
+  twitter: bigggggg_al
   facebook: #username
   google:
     plus: #username
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: alblaine
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
