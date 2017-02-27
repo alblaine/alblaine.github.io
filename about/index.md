@@ -10,6 +10,6 @@ I'm the Integrated Learning Librarian at NCSU Libraries.
 
 * data visualization 
 * creative coding
-* data visualization pedagogy
+* pedagogy
 * statistical computing and visualization
 * WebVR development
