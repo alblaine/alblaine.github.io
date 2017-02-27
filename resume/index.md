@@ -2,14 +2,18 @@
 layout: resume
 ---
 
+## Currently
+I'm currently the Integrated Learning Librarian at NCSU Libraries.
+
 ## Education
 
-`2013 - 2015`
+
 __University of North Carolina at Chapel Hill__
+`2013 - 2015`
 Master of Science in Information Science
 
-`2003 - 2005`
 __Harvard University__
+`2003 - 2005`
 Master of Theological Studies
 
 `1997 - 2001`
