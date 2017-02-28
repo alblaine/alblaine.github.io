@@ -6,8 +6,6 @@ layout: resume
 I'm currently the Integrated Learning Librarian at NCSU Libraries.
 
 ## Education
-
-
 __University of North Carolina at Chapel Hill__
 `2013 - 2015`
 Master of Science in Information Science
@@ -16,15 +14,14 @@ __Harvard University__
 `2003 - 2005`
 Master of Theological Studies
 
-`1997 - 2001`
 __Duke University__
+`1997 - 2001`
 Bachelor of Arts, Comparative Area Studies
 Minor, Spanish
 Certificate, Judaic Studies
 
 
 ## Presentations
-
 `2017`
 Presentation Title, The Collective, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
 
