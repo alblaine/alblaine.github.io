@@ -9,15 +9,13 @@ I'm currently the Integrated Learning Librarian at NCSU Libraries.
 __University of North Carolina at Chapel Hill__
 
 Master of Science in Information Science (2015)
-
-
-
+<br>
+<br>
 __Harvard University__
 
 Master of Theological Studies (2005)
-
-
-
+<br>
+<br>
 __Duke University__
 
 Bachelor of Arts, Comparative Area Studies (2001)
