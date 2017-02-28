@@ -6,9 +6,7 @@ layout: resume
 I'm currently the Integrated Learning Librarian at NCSU Libraries.
 
 ## Education
-__University of North Carolina at Chapel Hill__
-<div style="text-align: right">`2013 - 2015`</div>
-
+__University of North Carolina at Chapel Hill__<div style="text-align: right">2013 - 2015</div>
 Master of Science in Information Science
 
 
