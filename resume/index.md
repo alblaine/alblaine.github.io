@@ -11,9 +11,11 @@ __University of North Carolina at Chapel Hill__
 Master of Science in Information Science (2015)
 
 
+
 __Harvard University__
 
 Master of Theological Studies (2005)
+
 
 
 __Duke University__
